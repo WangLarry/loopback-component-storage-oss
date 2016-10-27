@@ -26,6 +26,9 @@
     "aliyun-sdk": "^1.9.3",
     "busboy": "^0.2.13",
     "lodash": "^4.13.1",
-    "moment": "^2.14.1"
-  }
+    "moment": "^2.14.1",
+    "debug": "^2.2.0"
+  },
+  "_from": "loopback-component-storage-oss@1.0.1",
+  "_resolved": "http://registry.npm.taobao.org/loopback-component-storage-oss/download/loopback-component-storage-oss-1.0.1.tgz"
 }
